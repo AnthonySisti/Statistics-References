@@ -23,6 +23,10 @@ Collections of references on different statistical topics
 - Conceptual introduction to embedding your observational study in a target randomized trial.
 - https://onlinelibrary.wiley.com/doi/epdf/10.1002/sim.2739
 
+###  Statistical Inference for Causal Effects, With Emphasis on Applications in Epidemiology and Medical Statistics
+- Book chapter that describes the RCM from ground up and leads into possible future research topics
+- https://books.google.com/books?hl=en&lr=&id=M0c58Rw3bEsC&oi=fnd&pg=PA28&ots=DPAVpXdfas&sig=bkSVrvRJ6U-Ta8GwbJeybYCbAm0#v=onepage&q&f=false
+
 ### For objective causal inference, design trumps analysis Rubin, D. B. (2008).
 - Additional emphasis for the importance of design decisions in observational studies.
 - https://projecteuclid.org/journalArticle/Download?urlId=10.1214%2F08-AOAS187 (Download)
