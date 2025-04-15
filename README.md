@@ -1,7 +1,7 @@
 # Statistics-References
 Collections of references on different statistical topics
 
-## Causal Inference 
+## Foundations of Causal Inference 
 
 ### _Estimating causal effects of treatments in randomized and nonrandomized studies_. Rubin, D. B. (1974)
 - First publication laying the ground work for Rubin Causal Model (RCM). Ironically, only could get published in Journal of Educational Psychology.
