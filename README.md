@@ -26,3 +26,12 @@ Collections of references on different statistical topics
 ### For objective causal inference, design trumps analysis Rubin, D. B. (2008).
 - Additional emphasis for the importance of design decisions in observational studies.
 - https://projecteuclid.org/journalArticle/Download?urlId=10.1214%2F08-AOAS187 (Download)
+
+
+## Analysis of Randomized Studies
+
+### When possible, report a Fisher-exact P value and display its underlying null randomization distribution. Bind, M. A., & Rubin, D. B. (2020).
+- Interesting article on the usefulness of the Fischer-exact P value in randomized experiments, and how it should be displayed rather than asymptotic P values
+- https://www.pnas.org/doi/epdf/10.1073/pnas.1915454117
+
+
