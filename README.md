@@ -38,4 +38,8 @@ Collections of references on different statistical topics
 - Interesting article on the usefulness of the Fischer-exact P value in randomized experiments, and how it should be displayed rather than asymptotic P values
 - https://www.pnas.org/doi/epdf/10.1073/pnas.1915454117
 
+## Computational And Model Fitting
 
+### Bayesian Nonparameteric Causal Inference in PyMC
+- Data scientist presents using BART amongst other techniques for obtaining causal inferences in Python
+- https://www.pymc.io/projects/examples/en/latest/causal_inference/bayesian_nonparametric_causal.html
