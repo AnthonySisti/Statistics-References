@@ -46,6 +46,16 @@ Collections of references on different statistical topics
 - Article by the BCF authors on how to apply BART to estimate causal effects in regression discontinuity designs. Also contains a nice discussion of how to build a simulation study.
 - https://arxiv.org/abs/2503.00326
 
+
+
+## Statistical / ML models
+
+
+### Bayesian regression tree models for causal inference: regularization, confounding, and heterogeneous effects (BCF)
+- Paper introducing Bayesian Causal Forrests (BCF), which modifies BART to regularize expected value under no intervention and the treatment effect separately.
+- https://arxiv.org/pdf/1706.09523
+
+
 ## Computational And Model Fitting
 
 ### Bayesian Nonparameteric Causal Inference in PyMC
