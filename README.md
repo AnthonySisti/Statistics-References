@@ -38,6 +38,14 @@ Collections of references on different statistical topics
 - Interesting article on the usefulness of the Fischer-exact P value in randomized experiments, and how it should be displayed rather than asymptotic P values
 - https://www.pnas.org/doi/epdf/10.1073/pnas.1915454117
 
+
+
+## Analysis of Observational Studies
+
+### Learning Conditional Average Treatment Effects in Regression Discontinuity Designs using Bayesian Additive Regression Trees
+- Article by the BCF authors on how to apply BART to estimate causal effects in regression discontinuity designs. Also contains a nice discussion of how to build a simulation study.
+- https://arxiv.org/abs/2503.00326
+
 ## Computational And Model Fitting
 
 ### Bayesian Nonparameteric Causal Inference in PyMC
