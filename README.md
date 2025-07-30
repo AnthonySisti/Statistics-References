@@ -46,6 +46,11 @@ Collections of references on different statistical topics
 - Article by the BCF authors on how to apply BART to estimate causal effects in regression discontinuity designs. Also contains a nice discussion of how to build a simulation study.
 - https://arxiv.org/abs/2503.00326
 
+### Difference-in-Differences Designs: A Practitioner’s Guide
+- A paper that helps orient the reader about how to think about DiD designs, the assumptions, challenges and possible solutions.
+- https://arxiv.org/pdf/2503.13323
+
+
 
 
 ## Statistical / ML models
