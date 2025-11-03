@@ -50,7 +50,10 @@ Collections of references on different statistical topics
 - A paper that helps orient the reader about how to think about DiD designs, the assumptions, challenges and possible solutions.
 - https://arxiv.org/pdf/2503.13323
 
-
+### Heterogeneity in the depression risk associated with spousal cardiovascular events
+- An application of BCF by Hahn that uses sequential PS matching, training and test set, and assesses model fit in a unique way.
+- https://www.sciencedirect.com/science/article/pii/S2666560325001641
+  
 
 
 ## Statistical / ML models
